@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapApp</string>
+    <string name="google_maps_key">AIzaSyDCoF17KtLBZpIZqnIFUDO_mLHDOecgxkY</string>
+    <string name="fort">Jhansi Fort</string>
+    <string name="gwalior_fort">Gwalior fort</string>
+    <string name="choose_one_destination">Choose one destination</string>
+    <string name="your_location">Your Location</string>
+</resources>
